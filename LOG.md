@@ -23,12 +23,12 @@ Completed:
 - I downloaded C compiler and git for Ubuntu server
 - I created directory for C programming at the home user directory on horus server
 - I watched most of lecture 1 from "Missing Semester" of MIT course
+- I started simple magical diary
 
 Pending:
 - I still need to write the mywc.c program so that Thoth can evaluate my current skill-level at C
 - I still need to read "All About Circuits" chapter 1
 - I still need to order electronics items for studying
-- I need to start magical record
 
 Journal Entry:
 - The hardest part today was maintaining my energy for these studies as well as my normal responsibilities.
