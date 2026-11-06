@@ -34,3 +34,27 @@ Journal Entry:
 - The hardest part today was maintaining my energy for these studies as well as my normal responsibilities.
 
 ## End of Day
+
+
+
+## Start of Day
+
+Name: David Mark Serrano Jr.
+
+Date: 11/05/2026
+
+Daily Goals/Tasks:
+- Read all of chapter 1 from "All About Circuits"
+- Finish daily magical diary
+
+Completed:
+- I was able to read until the section of voltage, but I got stuck here.
+
+Pending:
+- I need to finish reading the entire chapter, then have Thoth test my understanding.
+
+Journal Entry:
+- I could have finished the chapter today, but Kickboxing and exercising took time away from me.
+I wonder how I should schedule my training to make sure both things get their respective time.
+
+## End of Day
