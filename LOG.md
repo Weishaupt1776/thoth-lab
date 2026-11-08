@@ -1,3 +1,19 @@
+---------- Format of Journal Entry ----------
+
+Name: 
+
+Date: 
+
+Daily Goals/Tasks:
+
+Completed:
+
+Pending:
+
+Journal Entry:
+
+---------- Format of Journal Entry ----------
+
 ## Start of Day
 
 Name: David Mark Serrano Jr.
@@ -57,5 +73,84 @@ Pending:
 Journal Entry:
 - I could have finished the chapter today, but Kickboxing and exercising took time away from me.
 I wonder how I should schedule my training to make sure both things get their respective time.
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David Mark Serrano Jr.
+
+Date: 11/06/2026
+
+Daily Goals/Tasks:
+- Read all of chapter 1 from "All About Circuits"
+- Finish daily magical diary
+
+Completed:
+- I reviewed the entire chapter 1 but stopped in the section about "resistance".
+- I did my magical log.
+
+Pending:
+- I need to finish reading the entire chapter, then have Thoth test my understanding.
+
+Journal Entry:
+- This initial week is the hardest as I am just getting into the grind.
+I hope that Thoth understands and is patient at first because I have every intention to commit.
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David Mark Serrano Jr.
+
+Date: 11/07/2026
+
+Daily Goals/Tasks:
+- Finish all of chapter 1 from "All About Circuits"
+- Get tested by Thoth on chapter 1
+- Finish daily magical diary
+
+Completed:
+- I did my magical log.
+
+Pending:
+- I need to finish reading the entire chapter, then have Thoth test my understanding.
+
+Journal Entry:
+- I had been sidetracked because of another major project that I have been doing for years.
+The project is in the final phase of completion, and I dedicated most of my time and energy to that endeavor.
+This should not happen again in the future.
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David Mark Serrano Jr.
+
+Date: 11/08/2026
+
+Daily Goals/Tasks:
+- Read all of chapter 1 from "All About Circuits"
+- Have Thoth review all parts of initial chapter with me
+- Have Thoth test me on chapter 1 material
+- Order items needed for deep electrical studies
+- Finish mywc.c so that Thoth can determine current proficiency in C
+- Schedule week in advance
+- Finish daily magical diary
+
+Completed:
+
+
+Pending:
+
+
+Journal Entry:
+
 
 ## End of Day
