@@ -145,12 +145,39 @@ Daily Goals/Tasks:
 - Finish daily magical diary
 
 Completed:
+- I finished reading all of chapter 1 from "All About Circuits"
+- I reviewed all material from chapter 1 with Thoth and I solidified understanding (no need for test)
+- Wrote mywc.c program
+- Did magical diary
 
+Pending:
+- Schedule week in advance
+- Review scheduling priorities with Thoth
+- Order electrical starter items
+
+Journal Entry:
+- I was able to get a solid understanding of chapter 1 material
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David Mark Serrano Jr.
+
+Date: 11/09/2026
+
+Daily Goals/Tasks:
+- Upload mywc.c program and upload to GitHub for Thoth
+- Review weekly schedule
+- Adjust scheduling priorites
+- Magical diary
+
+Completed:
 
 Pending:
 
-
 Journal Entry:
-
 
 ## End of Day
