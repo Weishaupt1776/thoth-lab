@@ -16,7 +16,7 @@ Journal Entry:
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/04/2026
 
@@ -39,7 +39,7 @@ Completed:
 - I downloaded C compiler and git for Ubuntu server
 - I created directory for C programming at the home user directory on horus server
 - I watched most of lecture 1 from "Missing Semester" of MIT course
-- I started simple magical diary
+- I started simple magical log
 
 Pending:
 - I still need to write the mywc.c program so that Thoth can evaluate my current skill-level at C
@@ -47,7 +47,7 @@ Pending:
 - I still need to order electronics items for studying
 
 Journal Entry:
-- The hardest part today was maintaining my energy for these studies as well as my normal responsibilities.
+- The hardest part today was maintaining my energy for these studies as well as my normal responsibilities
 
 ## End of Day
 
@@ -55,17 +55,17 @@ Journal Entry:
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/05/2026
 
 Daily Goals/Tasks:
 - Read all of chapter 1 from "All About Circuits"
-- Finish daily magical diary
-
+- Magical diary
+  
 Completed:
-- I was able to read until the section of voltage, but I got stuck here.
-- I did my magical log.
+- I was able to read until the section of voltage, but I got stuck here
+- I did my magical log
 
 Pending:
 - I need to finish reading the entire chapter, then have Thoth test my understanding.
@@ -80,17 +80,17 @@ I wonder how I should schedule my training to make sure both things get their re
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/06/2026
 
 Daily Goals/Tasks:
 - Read all of chapter 1 from "All About Circuits"
-- Finish daily magical diary
-
+- Magical diary
+  
 Completed:
-- I reviewed the entire chapter 1 but stopped in the section about "resistance".
-- I did my magical log.
+- I reviewed the entire chapter 1 but stopped in the section about "resistance"
+- I did my magical log
 
 Pending:
 - I need to finish reading the entire chapter, then have Thoth test my understanding.
@@ -105,17 +105,17 @@ I hope that Thoth understands and is patient at first because I have every inten
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/07/2026
 
 Daily Goals/Tasks:
 - Finish all of chapter 1 from "All About Circuits"
 - Get tested by Thoth on chapter 1
-- Finish daily magical diary
+- Magical diary
 
 Completed:
-- I did my magical log.
+- I did my magical log
 
 Pending:
 - I need to finish reading the entire chapter, then have Thoth test my understanding.
@@ -131,7 +131,7 @@ This should not happen again in the future.
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/08/2026
 
@@ -142,13 +142,13 @@ Daily Goals/Tasks:
 - Order items needed for deep electrical studies
 - Finish mywc.c so that Thoth can determine current proficiency in C
 - Schedule week in advance
-- Finish daily magical diary
+- Magical diary
 
 Completed:
 - I finished reading all of chapter 1 from "All About Circuits"
 - I reviewed all material from chapter 1 with Thoth and I solidified understanding (no need for test)
 - Wrote mywc.c program
-- Did magical diary
+- Did my magical log
 
 Pending:
 - Schedule week in advance
@@ -164,7 +164,7 @@ Journal Entry:
 
 ## Start of Day
 
-Name: David Mark Serrano Jr.
+Name: David
 
 Date: 11/09/2026
 
@@ -175,9 +175,66 @@ Daily Goals/Tasks:
 - Magical diary
 
 Completed:
+- Did magical diary
+
+Pending:
+- Not completed
+
+Journal Entry:
+- Not completed
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David
+
+Date: 11/11/2026
+
+Daily Goals/Tasks:
+- Fix mywc.c
+- K&R 1-13, the word-length histogram, plus 1-8 and 1-12 if they're still undone.
+- The Linux Command Line Part 1 katas from memory.
+- All About Circuits chapter 2 with 10 problems on paper.
+- Magical Diary
+
+Completed:
+- Began review of Git (It's my first time using Git)
+- I did my magical diary
 
 Pending:
 
 Journal Entry:
+
+## End of Day
+
+
+
+## Start of Day
+
+Name: David
+
+Date: 11/14/2026
+
+Daily Goals/Tasks:
+- Update LOG.md with missing content on GitHub
+- Read Git Pro Book (Chapters 1 - 3)
+- Initiate pull request on horus to synchronize work
+- Fix mywc for Thoth for C programming practice
+- Finish entire problem-set for Chapter 1 from Kernighan and Ritchie book for C programming practice
+- Review “The Linux Command Line” Part 1 “katas from memory
+- Review “All About Circuits” chapter 1 material to continue study of electronics
+- Read and review “All About Circuits” chapter 2 with 10 problems on paper
+- Do anything else if you have time and energy
+- Update LOG.md and push 
+
+Completed:
+
+Pending:
+
+Journal Entry:
+- I admit that this is difficult this is difficult to maintain, but I will endure to my best ability. I missed my journal log this week, I have no excuse for doing so. 
 
 ## End of Day
